@@ -1,4 +1,7 @@
 # Car-scratch-object-detection-model
+
+Blog: https://medium.com/@samyukthamantri/deep-learning-based-car-damage-classification-and-detection-on-colab-97ef40d85a58
+
 Train an object detection model to detect and localize scratches in the images.
 
 1. Train an object detection model on provided data:
