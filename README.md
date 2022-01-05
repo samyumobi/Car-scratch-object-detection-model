@@ -5,8 +5,7 @@ Blog: https://medium.com/@samyukthamantri/deep-learning-based-car-damage-classif
 Train an object detection model to detect and localize scratches in the images.
 
 1. Train an object detection model on provided data:
-https://drive.google.com/drive/folders/1Z_uj0F_tvvFg0PSk4UV0kEe7AkErn0xX?usp=sha
-ring
+https://www.kaggle.com/samyukthamobile/car-scratch-dataset
     a) Given a dataset of car scratches, you need to train an object detection model to
     detect and localize scratches in the images.
     b) The train and the val sets are already annotated. Dataset split: 3.4k train images,
